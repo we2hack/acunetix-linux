@@ -3,7 +3,7 @@ Cracked trial acunetix for linux
 Install Ubuntu or Kali Linux
 
 ```
-apt install git && rm -rf /tmp/acun*
+sudo apt install git && rm -rf /tmp/acun*
 cd /tmp && git clone https://github.com/we2hack/acunetix-linux.git
 cd acunetix-linux && cat acupatch* > acupatch.tgz
 tar -zxvf acupatch.tgz
